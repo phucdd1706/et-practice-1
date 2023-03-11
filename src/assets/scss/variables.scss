@@ -1,0 +1,21 @@
+$primary-color: #f4f4f4;
+$secondary-color: #333;
+$page-height: 100vh;
+$page-width: 100vw;
+$footer-img-path: url('../img/bg-signup.jpg');
+$home-img-path: url('../img/bg-masthead.jpg');
+$content-img-01-path: url('../img/demo-image-01.jpg');
+$content-img-02-path: url('../img/demo-image-02.jpg');
+$mobile-font-size: 0.75rem;
+$font-weight: 400;
+$desktop-font-size: 1rem;
+
+// responsive config
+$breakpoints: (
+  'xs': 0,
+  'sm': 576px,
+  'md': 768px,
+  'lg': 992px,
+  'xl': 1200px,
+  'xxl': 1400px
+);
