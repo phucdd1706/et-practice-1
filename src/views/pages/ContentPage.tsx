@@ -9,6 +9,7 @@ const ContentPage = () => {
       <div className="content-container">
         <div className="shoreline">
           <img src={ShorelineImage} alt="Shoreline" />
+          <div className="stick" />
           <div className="shoreline__text">
             <div className="shoreline-frame">
               <div>
